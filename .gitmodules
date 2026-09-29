@@ -1,0 +1,3 @@
+[submodule "lib/factory-hook"]
+	path = lib/factory-hook
+	url = https://github.com/FrontierFun/factory-hook
